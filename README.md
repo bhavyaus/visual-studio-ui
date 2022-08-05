@@ -53,7 +53,7 @@ namespace NameSpace
 }
 ```
 4. Fill in the UI code. Here are some resources and examples:
-    - [OverviewSample](/samples/Overview/Overview/OverviewSample.cs)
+    - [OverviewSample](/samples/Overview)
     - [VisualStudioUIGallery](/samples/GalleryExtension/Microsoft.VisualStudioUIGallery.VSWin)
 
 
